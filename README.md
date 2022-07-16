@@ -1,5 +1,5 @@
 ## 文档地址
-参见：[文档地址](https://github.com/winniekeller/docs/wiki)
+参见：[文档地址](https://github.com/winniekeller/docs/wiki)。
 
 ## 研发计划
 | 任务编号 | 任务 | 时间点 | 前置依赖 | 风险 |
